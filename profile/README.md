@@ -1,5 +1,9 @@
 # IPTV Portugal: A Revolução da Televisão Digital em Território Nacional
 
+# 👉 [Assine Já IPTV](https://pt.iptvportugal.pt/)
+
+# 👉 [Assine Já IPTV](https://pt.iptvportugal.pt/)
+
 ## O que é IPTV?
 A IPTV (Internet Protocol Television) é uma tecnologia que permite a transmissão de sinais televisivos através da internet, substituindo os métodos tradicionais como cabo ou satélite. Em vez de depender de uma antena ou parabólica, o IPTV utiliza uma ligação à internet de banda larga para oferecer uma vasta gama de canais e conteúdos sob demanda, com alta qualidade e flexibilidade.
 
